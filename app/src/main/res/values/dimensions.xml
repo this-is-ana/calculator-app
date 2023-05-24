@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="max_button_text_size">24sp</dimen>
+    <dimen name="min_button_text_size">12sp</dimen>
+    <dimen name="max_equation_button">32sp</dimen>
+    <dimen name="min_equation_button">24sp</dimen>
+    <dimen name="button_radius">5dp</dimen>
+    <dimen name="button_margin">3dp</dimen>
+</resources>
